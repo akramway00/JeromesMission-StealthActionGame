@@ -26,7 +26,7 @@ Welcome to *Jerome's Mission*, a Unity-based stealth action game where you contr
 ### Gameplay
 In *Jerome's Mission*, players explore a 3D environment from a third-person perspective. Your objective is to deactivate nine power batteries scattered throughout the complex, all while avoiding detection by security drones.
 
-> **Suggested image placement**: Insert an image of the main character, Jerome, and the complex environment.
+![Gameplay Screenshot](screenshot/captureGameplay1.png)
 
 ### Controls
 - **Movement**: Use `WASD` to move Jerome. 
