@@ -27,6 +27,7 @@ Welcome to *Jerome's Mission*, a Unity-based stealth action game where you contr
 In *Jerome's Mission*, players explore a 3D environment from a third-person perspective. Your objective is to deactivate nine power batteries scattered throughout the complex, all while avoiding detection by security drones.
 
 ![Gameplay Screenshot](screenshot/captureGameplay1.PNG)
+![Gameplay Screenshot](screenshot/captureGameplay2.PNG)
 
 ### Controls
 - **Movement**: Use `WASD` to move Jerome. 
@@ -51,7 +52,7 @@ In *Jerome's Mission*, players explore a 3D environment from a third-person pers
 - Scattered around the complex, these rotating cubes grant Jerome an extra 10 seconds of mission time when collected.
 - **Sound Effect**: A sound plays each time Jerome collects a cube.
 
-> **Suggested image placement**: Show a drone and a battery along with a time extension cube.
+![Gameplay Screenshot](screenshot/captureGameplay3.PNG)
 
 ### User Interface
 The game displays:
@@ -65,7 +66,7 @@ The game displays:
 - **Victory**: Jerome wins when all batteries are disabled. Upon victory, drones are destroyed, and a victory message is displayed.
 - **Defeat**: Jerome loses if he runs out of time or is rendered unconscious too many times, with a final message displaying defeat.
 
-> **Suggested image placement**: Include an image of the victory or defeat screen, showcasing the UI elements.
+
 
 ---
 
